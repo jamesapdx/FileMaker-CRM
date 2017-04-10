@@ -17,8 +17,10 @@ FileMaker-CRM is comprised of approximately:
 * 30 screens
 * 190 scripts containing 4500 lines of code
 
-Printouts of the scripts are provided in this repository.  Screen shots, table designs,
-and feature descriptions will be added in the near future.
+PDFs of the scripts are provided in the rqository above or can be downloaded by clicking the following links.
+[customers_scripts.pdf](https://github.com/jamesapdx/FileMaker-CRM/raw/master/customers_scripts.pdf)
+[quotes_scripts.pdf](https://github.com/jamesapdx/FileMaker-CRM/raw/master/quotes_scripts.pdf)
+[orders_scripts.pdf](https://github.com/jamesapdx/FileMaker-CRM/raw/master/orders_scripts.pdf)
 
 ### Screen Layouts
 
