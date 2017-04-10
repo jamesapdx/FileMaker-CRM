@@ -19,3 +19,9 @@ FileMaker-CRM is comprised of approximately:
 
 Printouts of the scripts are provided in this repository.  Screen shots, table designs,
 and feature descriptions will be added in the near future.
+
+### Screen Layouts
+
+[![customers](https://github.com/jamesapdx/FileMaker-CRM/blob/master/screenshots/thumbnails/customers_t.png)](https://github.com/jamesapdx/FileMaker-CRM/blob/master/screenshots/customers.png)
+[![quotes](https://github.com/jamesapdx/FileMaker-CRM/blob/master/screenshots/thumbnails/quotes_t.png)](https://github.com/jamesapdx/FileMaker-CRM/blob/master/screenshots/quotes.png)
+[![customers](https://github.com/jamesapdx/FileMaker-CRM/blob/master/screenshots/thumbnails/orders_t.png)](https://github.com/jamesapdx/FileMaker-CRM/blob/master/screenshots/orders.png)
