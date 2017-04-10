@@ -29,7 +29,7 @@ and feature descriptions will be added in the near future.
 ### Under the hood
 
 [![customers_relationship](https://github.com/jamesapdx/FileMaker-CRM/raw/master/screenshots/thumbnails/customers_relationships_t.png)](https://github.com/jamesapdx/FileMaker-CRM/raw/master/screenshots/customers_relationships.png)
-[![customers_fields](https://github.com/jamesapdx/FileMaker-CRM/raw/master/screenshots/thumbnails/customers_fields_t.png)](https://github.com/jamesapdx/FileMaker-CRM/raw/master/screenshots/customers_fields.png
+[![customers_fields](https://github.com/jamesapdx/FileMaker-CRM/raw/master/screenshots/thumbnails/customers_fields_t.png)](https://github.com/jamesapdx/FileMaker-CRM/raw/master/screenshots/customers_fields.png)
 [![customers_layout](https://github.com/jamesapdx/FileMaker-CRM/raw/master/screenshots/thumbnails/customers_layout_t.png)](https://github.com/jamesapdx/FileMaker-CRM/raw/master/screenshots/customers_layout.png)
 
 [![quotes_relationship](https://github.com/jamesapdx/FileMaker-CRM/raw/master/screenshots/thumbnails/quotes_relationships_t.png)](https://github.com/jamesapdx/FileMaker-CRM/raw/master/screenshots/quotes_relationships.png)
