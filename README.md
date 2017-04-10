@@ -18,7 +18,7 @@ FileMaker-CRM is comprised of approximately:
 * 190 scripts containing 4500 lines of code
 
 ### Scripts
-PDFs of the scripts are provided in the rqository above or can be downloaded by clicking the following links.
+PDFs of the scripts are provided in the repository above or can be downloaded by clicking the following links.
 
 [customers_scripts.pdf](https://github.com/jamesapdx/FileMaker-CRM/raw/master/customers_scripts.pdf)
 
